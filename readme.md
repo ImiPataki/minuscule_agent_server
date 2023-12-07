@@ -1,7 +1,7 @@
 # Minuscule Agent Server
 
 ## Introduction
-Welcome to the *minuscule_agent_server* repository! This Flask server is designed to work with the *minuscule_agent*.
+Welcome to the *Minuscule Agent Server* repository! This Flask server is designed to work with the *[Minuscule Agent](https://github.com/ImiPataki/minuscule_agent)*.
 It contains the API documentations and handles the API calls. 3rd party API calls should be made through this server as
 that would help to organize the code and make the agent more efficient by removing the unnecessary elements from the
 API responses, processing and reformatting them if necessary.
