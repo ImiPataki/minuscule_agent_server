@@ -6,6 +6,8 @@ It contains the API documentations and handles the API calls. 3rd party API call
 that would help to organize the code and make the agent more efficient by removing the unnecessary elements from the
 API responses, processing and reformatting them if necessary.
 
+## To read the full description of the framework please visit the following link: [Minuscule Agent](https://joinsingularity.beehiiv.com/p/automate-your-job)
+
 ## Installation
 
 Follow these steps to install and run the server:
